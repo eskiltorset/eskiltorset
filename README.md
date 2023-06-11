@@ -8,7 +8,7 @@
 ## Projects i recently worked on
 - CryptoBlog: https://github.com/eskiltorset/Semester_Project_eskiltorset
 - RainyDays: https://github.com/eskiltorset/HTML-and-CSS---CA
-- Communit Science Museum: https://github.com/eskiltorset/Semester_Project_CA
+- Community Science Museum: https://github.com/eskiltorset/Semester_Project_CA
 
 ## Contact
 Add me on Discord: tors#6448
